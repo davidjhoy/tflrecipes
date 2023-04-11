@@ -24,7 +24,7 @@ export default function Home() {
     
   }
   return (
-    <main className="flex min-h-screen flex-col">
+    <main className="flex max-h-screen flex-col">
 
 
       <div className = "mt-[30vh]">
